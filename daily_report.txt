@@ -1,0 +1,6 @@
+
+Daily Sales Report
+------------------
+Total Orders: 5
+Total Revenue: 4400
+Top Selling Product: Keyboard

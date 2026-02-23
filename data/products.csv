@@ -1,0 +1,6 @@
+product_id,product_name,product_type,shelf_life_days
+1,Mouse,durable,
+2,Keyboard,durable,
+3,Vitamin C,consumable,30
+4,Shampoo,consumable,45
+5,Tshirt,mid,
